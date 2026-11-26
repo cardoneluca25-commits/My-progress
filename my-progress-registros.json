@@ -1,0 +1,30 @@
+{
+  "days": {
+    "2026-11-25": {
+      "read": false,
+      "english": false
+    },
+    "2026-11-26": {
+      "read": false,
+      "english": false,
+      "guitar": false,
+      "tidy": false,
+      "phone": false
+    }
+  },
+  "weeks": {
+    "2026-11-23": {
+      "training": false,
+      "shoot": false,
+      "mysteries": false,
+      "notebook": false,
+      "stream": false,
+      "overlays": false,
+      "ideas": false,
+      "planning": false,
+      "progress": false,
+      "walk": false
+    }
+  },
+  "notes": {}
+}
